@@ -120,8 +120,10 @@ class UserList(Resource):
 
             # Execute the SELECT statement to retrieve all users with their roles
             cursor.execute("""
-                SELECT id, first_name, last_name, username, deleted
-                FROM users
+                SELECT u.id, u.first_name, u.last_name, u.username, u.deleted, r.role
+                FROM users u
+                JOIN user_roles ur ON u.id = ur.user_id
+                JOIN roles r ON ur.role_id = r.id
             """)
 
             # Fetch all rows from the cursor
@@ -136,7 +138,7 @@ class UserList(Resource):
                     'last_name': row[2],
                     'username': row[3],
                     'deleted': row[4],
-   
+                    'role': row[5]
                 }
                 users.append(user)
 
