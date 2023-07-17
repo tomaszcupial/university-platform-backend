@@ -19,7 +19,7 @@ class DeleteCourse(Resource):
     @token_required_with_role('Wykladowca')
 
     @api.expect(course_del_model)
-    def post(self,current_user):
+    def post(current_user):
         req_data = request.get_json()
         course_id=req_data.get("id_course")
       
@@ -37,7 +37,7 @@ class DeleteCourse(Resource):
 class CourseAdd(Resource):
     #@token_required_with_role('Wykladowca')
     @api.expect(course_add_model)
-    def post(self,current_user):
+    def post(current_user):
         req_data = request.get_json()
         course_name=req_data.get("name")
         course_description=req_data.get("description")
