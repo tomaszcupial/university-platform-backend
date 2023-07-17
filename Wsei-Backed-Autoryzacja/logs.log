@@ -1,0 +1,597 @@
+{2023-07-14 22:17:56} - start app
+{2023-07-14 22:55:34} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 22:56:12} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 22:59:05} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 23:01:46} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 23:12:03} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 23:12:15} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 23:14:01} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-14 23:14:57} - Error durring connecting to database: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+{2023-07-15 12:43:53} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:46:45} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:48:32} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:48:42} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:49:53} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:51:36} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:51:36} - None
+{2023-07-15 12:53:33} - admin
+{2023-07-15 12:53:33} - 12345
+{2023-07-15 12:53:33} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:53:33} - None
+{2023-07-15 12:54:53} - admin
+{2023-07-15 12:54:53} - 12345
+{2023-07-15 12:54:53} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:54:53} - None
+{2023-07-15 12:56:32} - admin
+{2023-07-15 12:56:32} - 12345
+{2023-07-15 12:56:33} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 12:56:33} - None
+{2023-07-15 12:57:55} - admin
+{2023-07-15 12:57:55} - 12345
+{2023-07-15 12:57:56} - 1
+{2023-07-15 12:57:56} - None
+{2023-07-15 12:58:32} - admin
+{2023-07-15 12:58:32} - 12345
+{2023-07-15 12:58:32} - admin
+{2023-07-15 12:58:32} - None
+{2023-07-15 12:59:31} - admin
+{2023-07-15 12:59:31} - 12345
+{2023-07-15 12:59:31} - True
+{2023-07-15 12:59:32} - None
+{2023-07-15 13:00:43} - admin
+{2023-07-15 13:00:43} - 12345
+{2023-07-15 13:00:43} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:00:44} - None
+{2023-07-15 13:02:20} - admin
+{2023-07-15 13:02:20} - 12345
+{2023-07-15 13:02:20} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:02:20} - 12345
+{2023-07-15 13:02:20} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:02:20} - None
+{2023-07-15 13:03:55} - admin
+{2023-07-15 13:03:55} - 12345
+{2023-07-15 13:03:55} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:03:55} - 12345
+{2023-07-15 13:03:55} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:03:55} - True
+{2023-07-15 13:03:55} - None
+{2023-07-15 13:05:43} - admin
+{2023-07-15 13:05:43} - 12345
+{2023-07-15 13:05:44} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:05:44} - 12345
+{2023-07-15 13:05:44} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:05:44} - True
+{2023-07-15 13:05:44} - {'success': False, 'msg': 'Unexpected error'}
+{2023-07-15 13:05:44} - [admin] -- logged in failed
+{2023-07-15 13:07:35} - admin
+{2023-07-15 13:07:35} - 12345
+{2023-07-15 13:07:35} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:07:35} - 12345
+{2023-07-15 13:07:35} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:07:35} - True
+{2023-07-15 13:07:35} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk0MzM1MzUsInNlc3Npb25faWQiOiI4YjU0MzBkMC04ZGVhLTRmZjgtOGI0Yy0wZGIwMDA1NTc5NTcifQ.mt3m3MuHWOTjiJ-6B_XzKtv5BbNE2QKn6kw7xm33XnM', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-15 13:07:35} - [admin] -- logged in success
+{2023-07-15 13:33:03} - admin
+{2023-07-15 13:33:03} - 12345
+{2023-07-15 13:33:03} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:33:03} - 12345
+{2023-07-15 13:33:03} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:33:03} - True
+{2023-07-15 13:33:03} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk0MzUwNjMsInNlc3Npb25faWQiOiJhMDdkOGYwMS1kMGUwLTRlMmEtYmVkYy0xNGYxZTM1OGVmOTQifQ.K5V5mzFokmPhUSu85l9ipM6F25K149wud7nw2qyJqLM', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-15 13:33:03} - [admin] -- logged in success
+{2023-07-15 13:41:08} - string
+{2023-07-15 13:41:08} - string
+{2023-07-15 13:41:09} - None
+{2023-07-15 13:41:09} - Pusty
+{2023-07-15 13:41:09} - string
+{2023-07-15 13:41:13} - string
+{2023-07-15 13:41:13} - string
+{2023-07-15 13:41:13} - None
+{2023-07-15 13:41:13} - Pusty
+{2023-07-15 13:41:13} - string
+{2023-07-15 13:49:11} - admin
+{2023-07-15 13:49:11} - 12345
+{2023-07-15 13:49:11} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-15 13:49:11} - 12345
+{2023-07-15 13:49:11} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-15 13:49:11} - True
+{2023-07-15 13:49:11} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk0MzYwMzEsInNlc3Npb25faWQiOiJjMzVhM2E3MC02Mjk2LTQ0MjEtYTYxNy1hZDBhNzY4MzNiMGYifQ.V_gWHBY8WZU7gOeLAHgn2L9oPkwGOZSjfFeC3d7Cij0', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-15 13:49:11} - [admin] -- logged in success
+{2023-07-16 11:22:53} - admin
+{2023-07-16 11:22:53} - 12345
+{2023-07-16 11:22:53} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:22:53} - 12345
+{2023-07-16 11:22:53} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:22:53} - True
+{2023-07-16 11:22:54} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTM2NTQsInNlc3Npb25faWQiOiJmYjkzMDJmOC1kYWUxLTRiZWQtYjUwYS0yMjU3YzRiNzA1MWUifQ.M94hWoloXmkNyTLjmPtYMLT4wfeKm3i4mx9DAmUaPiw', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:22:54} - [admin] -- logged in success
+{2023-07-16 11:35:17} - admin
+{2023-07-16 11:35:17} - 12345
+{2023-07-16 11:35:17} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:35:17} - 12345
+{2023-07-16 11:35:17} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:35:17} - True
+{2023-07-16 11:35:17} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTQzOTcsInNlc3Npb25faWQiOiJiZWNlNTBmZi1mOTlmLTQ5ZDMtYmZhOS0wYTRhNTg5NWNlOTgifQ.M6bqlrHTuvVjngzkszXtZi9RKmul_v6_VYhYou42pJE', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:35:17} - [admin] -- logged in success
+{2023-07-16 11:39:36} - admin
+{2023-07-16 11:39:36} - 12345
+{2023-07-16 11:39:36} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:39:36} - 12345
+{2023-07-16 11:39:36} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:39:36} - True
+{2023-07-16 11:39:36} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTQ2NTYsInNlc3Npb25faWQiOiIzYmE1ODRjMS01MzIyLTQzODYtOTBjNC1lZTA1ZGNhMjI1MGMifQ.fTZS4mmTIwUoyD53b2YH7A_8qNPQDgn-q-brCMThsOE', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:39:36} - [admin] -- logged in success
+{2023-07-16 11:40:21} - admin
+{2023-07-16 11:40:21} - 12345
+{2023-07-16 11:40:21} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:40:21} - 12345
+{2023-07-16 11:40:21} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:40:21} - True
+{2023-07-16 11:40:22} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTQ3MDIsInNlc3Npb25faWQiOiJlZWQ1ZDVlOC1jYTc4LTQzYTctOWU4Yy0xZTRlNzkxY2U3YjgifQ.2IjgkvY6UIe4q7BVIWrFMOsKh2pURmvxyxnHeQbwLRo', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:40:22} - [admin] -- logged in success
+{2023-07-16 11:40:47} - test
+{2023-07-16 11:40:47} - 12345
+{2023-07-16 11:40:47} - None
+{2023-07-16 11:40:47} - Pusty
+{2023-07-16 11:40:47} - 12345
+{2023-07-16 11:41:45} - admin
+{2023-07-16 11:41:45} - 12345
+{2023-07-16 11:41:46} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:41:46} - 12345
+{2023-07-16 11:41:46} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:41:46} - True
+{2023-07-16 11:41:46} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTQ3ODYsInNlc3Npb25faWQiOiJhZWJiZjU5YS0zMjkwLTRiNDktOWY0Zi05NjFhZjYzM2U2YzkifQ.D6t9IBG1bHYetYo0JyqljO-fCFRuwyOJ6mHwEkXS9KY', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:41:46} - [admin] -- logged in success
+{2023-07-16 11:58:27} - admin
+{2023-07-16 11:58:27} - 12345
+{2023-07-16 11:58:27} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 11:58:27} - 12345
+{2023-07-16 11:58:27} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 11:58:27} - True
+{2023-07-16 11:58:27} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTU3ODcsInNlc3Npb25faWQiOiJhNTYzNzFiZC0yOTc1LTRhMGQtODI4Yy1jMzg2NmVlODNjNGEifQ.vPq87jXQgdBt9UY6sITtRG19akstIVSZDTxkhB60xco', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 11:58:27} - [admin] -- logged in success
+{2023-07-16 12:15:06} - admin
+{2023-07-16 12:15:06} - 12345
+{2023-07-16 12:15:06} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:15:06} - 12345
+{2023-07-16 12:15:06} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:15:06} - True
+{2023-07-16 12:15:06} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTY3ODYsInNlc3Npb25faWQiOiI5NGJhMzA2ZS1lMmJiLTQ1NWUtODhkZi00YWFlNzNiZmJmNDQifQ.t5rAuAGyEDZ6a7bF57lcSWfHLfKxn7DvdVJI_x_1Wos', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:15:06} - [admin] -- logged in success
+{2023-07-16 12:15:31} - admin
+{2023-07-16 12:15:31} - 12345
+{2023-07-16 12:15:31} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:15:31} - 12345
+{2023-07-16 12:15:31} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:15:31} - True
+{2023-07-16 12:15:31} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTY4MTEsInNlc3Npb25faWQiOiIzMDcwMTc5Yy1iYzc5LTRhNjEtOWMzNS1kYTdhZDNiNzgwZWQifQ.-X0HWP3jje94hqKVEtR_7kwNrutX74HFq7jAs1CBgwU', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:15:31} - [admin] -- logged in success
+{2023-07-16 12:15:57} - admin
+{2023-07-16 12:15:57} - 12345
+{2023-07-16 12:15:57} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:15:57} - 12345
+{2023-07-16 12:15:57} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:15:57} - True
+{2023-07-16 12:15:57} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTY4MzcsInNlc3Npb25faWQiOiI2NWE2YWUwMC1kM2M1LTRiZWEtODhhMy01ZWY3YzQzNjBhZjUifQ.FkAZLqvtIMnRp7-tTFzbySP56zwanjooMJGKD-ARCq4', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:15:57} - [admin] -- logged in success
+{2023-07-16 12:19:00} - admin
+{2023-07-16 12:19:00} - 12345
+{2023-07-16 12:19:00} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:19:00} - 12345
+{2023-07-16 12:19:00} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:19:00} - True
+{2023-07-16 12:19:00} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTcwMjAsInNlc3Npb25faWQiOiI0MTE5NTAwOC00YzM2LTRjOTMtODQ1Yy1mZjVkMDBjMWM5NTAifQ.U2OiqigNd8cWOqjK-yLgEnEAw3Z44zYzB78FFQdN0jM', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:19:00} - [admin] -- logged in success
+{2023-07-16 12:19:24} - admin
+{2023-07-16 12:19:24} - 12345
+{2023-07-16 12:19:24} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:19:24} - 12345
+{2023-07-16 12:19:24} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:19:24} - True
+{2023-07-16 12:19:24} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTcwNDQsInNlc3Npb25faWQiOiI0ZTVhMGU2MC1mMGJlLTRiMjYtYmZhMy0xZmU0NzFjNzkwNGMifQ.SkoF8SKiBUfD1vztMP9bu-OX2hBH30xDy2ncLZNSzw8', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:19:24} - [admin] -- logged in success
+{2023-07-16 12:22:09} - admin
+{2023-07-16 12:22:09} - 12345
+{2023-07-16 12:22:09} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:22:09} - 12345
+{2023-07-16 12:22:09} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:22:09} - True
+{2023-07-16 12:22:09} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTcyMDksInNlc3Npb25faWQiOiJjOGM5MzFhYi1kODAzLTQxODctYmM1ZC02YTY3MmE5ODk1YmMifQ.u7mEGtzFIRckKRIx_Q2NuxP_Q58-SuRRTmLWKJbtNDc', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:22:09} - [admin] -- logged in success
+{2023-07-16 12:23:59} - admin
+{2023-07-16 12:23:59} - 12345
+{2023-07-16 12:23:59} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:23:59} - 12345
+{2023-07-16 12:23:59} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:23:59} - True
+{2023-07-16 12:23:59} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTczMTksInNlc3Npb25faWQiOiJjZTBhM2FhYS0xYWJkLTQzZjQtOGRmZC0xYzc2Yjk0NTY1YjMifQ.CjM969eN9zdeY5UmbO09K6BsacoFWEpEPVhILuFu07c', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:23:59} - [admin] -- logged in success
+{2023-07-16 12:25:06} - admin
+{2023-07-16 12:25:06} - 12345
+{2023-07-16 12:25:06} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:25:06} - 12345
+{2023-07-16 12:25:06} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:25:06} - True
+{2023-07-16 12:25:06} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTczODYsInNlc3Npb25faWQiOiI4YWM4MDRiYy1kODM3LTQxYzEtODllOS1iZGY5ODllOGY2M2QifQ.C7Nz9WQhkIDIdsnYH6fcaOILiRdLJWZ7qtBuFSaxSXA', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:25:06} - [admin] -- logged in success
+{2023-07-16 12:27:29} - admin
+{2023-07-16 12:27:29} - 12345
+{2023-07-16 12:27:29} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:27:29} - 12345
+{2023-07-16 12:27:29} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:27:29} - True
+{2023-07-16 12:27:29} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTc1MjksInNlc3Npb25faWQiOiJhNDU1MzhlZS05MTYzLTQ2YmItODJlYy1jYmEyZDQxMTcwMmYifQ.-XzIpLuyKc_tf9eduXxWda6n34z8FvSEWCbh4O9jpW0', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:27:29} - [admin] -- logged in success
+{2023-07-16 12:27:49} - admin
+{2023-07-16 12:27:49} - 123445
+{2023-07-16 12:27:49} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:27:49} - 123445
+{2023-07-16 12:27:49} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:27:49} - False
+{2023-07-16 12:27:49} - {'success': False, 'msg': 'Username or password is incorrect'}
+{2023-07-16 12:27:49} - [admin] -- logged in failed
+{2023-07-16 12:27:54} - admin
+{2023-07-16 12:27:54} - 12345
+{2023-07-16 12:27:55} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:27:55} - 12345
+{2023-07-16 12:27:55} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:27:55} - True
+{2023-07-16 12:27:55} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTc1NTUsInNlc3Npb25faWQiOiI5ZmE4ZjY1NC01YjU3LTQ1OWYtYjQ5MS1kMzdhMDY3ZTFmMjkifQ.LJwQ02ZcfqngVcrVDOM2QVSsaSaImdhO9tWVF55VEug', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:27:55} - [admin] -- logged in success
+{2023-07-16 12:28:30} - admin
+{2023-07-16 12:28:30} - 12345
+{2023-07-16 12:28:30} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:28:30} - 12345
+{2023-07-16 12:28:30} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:28:30} - True
+{2023-07-16 12:28:31} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTc1OTEsInNlc3Npb25faWQiOiIzNmI4ZmY0Ni1lMDRjLTQ1MTEtYWZmNC1mNjViNDVjZTFlZWYifQ.xOEJnj-YsrOYm9C2AUres3IJG_J--Kf-9xopnmkat1o', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:28:31} - [admin] -- logged in success
+{2023-07-16 12:32:49} - admin
+{2023-07-16 12:32:49} - 12345
+{2023-07-16 12:32:49} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:32:49} - 12345
+{2023-07-16 12:32:49} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:32:49} - True
+{2023-07-16 12:32:50} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTc4NTAsInNlc3Npb25faWQiOiI3NjhhY2JiNC04YWIzLTRiYWQtODNlMy03MjBkODIyOWNmY2QifQ.a3IMehatg0hK_vWOY66s_Y6rPjF4BwqEM6BhAKRJEpU', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:32:50} - [admin] -- logged in success
+{2023-07-16 12:38:50} - admin
+{2023-07-16 12:38:50} - 12345
+{2023-07-16 12:38:50} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:38:50} - 12345
+{2023-07-16 12:38:50} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:38:50} - True
+{2023-07-16 12:38:51} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTgyMTEsInNlc3Npb25faWQiOiI4M2I2MzY4ZC1hY2JiLTQ4ZGEtYTdkMi1lNWZmNjEzYTNlM2QifQ.1ankxqsy301Di7l1VsV5-px0azHrKGvPlPslq6-Qfac', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:38:51} - [admin] -- logged in success
+{2023-07-16 12:39:13} - admin
+{2023-07-16 12:39:13} - 12345
+{2023-07-16 12:39:13} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:39:13} - 12345
+{2023-07-16 12:39:13} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:39:13} - True
+{2023-07-16 12:39:13} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTgyMzMsInNlc3Npb25faWQiOiI3NDg4YmYzNC01N2E5LTQ0NmMtYWJmMS03NDAzOWIxZTkwNzQifQ.rXicxmZb7hhW7Fc57OJL9EPP-8tATvI5SHAbaOxSveg', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:39:13} - [admin] -- logged in success
+{2023-07-16 12:41:59} - admin
+{2023-07-16 12:41:59} - 12345
+{2023-07-16 12:41:59} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:41:59} - 12345
+{2023-07-16 12:41:59} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:41:59} - True
+{2023-07-16 12:41:59} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTgzOTksInNlc3Npb25faWQiOiIwNTgzM2VlZi0wMzIzLTQ4OTctOTdiMS0wNmIyZTNjNGNiZmIifQ.TVKCk-Z_CBqm5HgyODuvtHS_0vVom3oOTEPtIRqiwaY', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:41:59} - [admin] -- logged in success
+{2023-07-16 12:42:15} - admin
+{2023-07-16 12:42:15} - 12345
+{2023-07-16 12:42:15} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:42:15} - 12345
+{2023-07-16 12:42:15} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:42:15} - True
+{2023-07-16 12:42:15} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTg0MTUsInNlc3Npb25faWQiOiIyNzA1NjNlNi0zMDQ4LTQ4YWUtOTE5OC0xYjQ3YzZhMmI2M2IifQ.W4N98KtetY_8bb0h4QEmDqptgd1Qib_UCNYITVy53H4', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:42:15} - [admin] -- logged in success
+{2023-07-16 12:52:11} - admin
+{2023-07-16 12:52:11} - 12345
+{2023-07-16 12:52:11} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:52:11} - 12345
+{2023-07-16 12:52:11} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:52:11} - True
+{2023-07-16 12:52:11} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkwMTEsInNlc3Npb25faWQiOiJmYmY0MzRjZC0zNTRjLTQwODQtOWVhYy04ZmQ3ZjE2MTA2MDQifQ.JKCjFichRHlSTG7fbZsvzxiyMuuLQwUM2YGaFJqqa-E', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:52:11} - [admin] -- logged in success
+{2023-07-16 12:52:55} - admin
+{2023-07-16 12:52:55} - 12345
+{2023-07-16 12:52:55} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:52:55} - 12345
+{2023-07-16 12:52:55} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:52:55} - True
+{2023-07-16 12:52:55} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkwNTUsInNlc3Npb25faWQiOiI4MTU1MDVjOS1lZDEzLTQ2MjMtYmFhZC0xYThlOWFlZDg3NDEifQ.asJMUcEMsVvkw_qIY41r9R7Ls1foZDxjzwDWLaCf0y8', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:52:55} - [admin] -- logged in success
+{2023-07-16 12:53:26} - admin
+{2023-07-16 12:53:26} - 12345
+{2023-07-16 12:53:26} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:53:26} - 12345
+{2023-07-16 12:53:26} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:53:26} - True
+{2023-07-16 12:53:26} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkwODYsInNlc3Npb25faWQiOiI5NzczNTYyNC03YjUyLTRhNjAtYjg4Zi1mODFlNzFlZjYwMDcifQ.TJw8zcxMN2d5MgPQj4LL0IG0fM-KSbjIgGa-Rt9rUpk', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:53:26} - [admin] -- logged in success
+{2023-07-16 12:53:40} - admin
+{2023-07-16 12:53:40} - 12345
+{2023-07-16 12:53:40} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:53:40} - 12345
+{2023-07-16 12:53:40} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:53:40} - True
+{2023-07-16 12:53:40} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkxMDAsInNlc3Npb25faWQiOiJhZDgxMGQ1MC02ZjY0LTQ0YmUtYWJmYS1hMzc2OWFiODNmYzQifQ.CZAXL5A5fKwCH5mQiZxKN4TxTIRzqqOBESI3vjK-zuo', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:53:40} - [admin] -- logged in success
+{2023-07-16 12:54:34} - admin
+{2023-07-16 12:54:34} - 12345
+{2023-07-16 12:54:34} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:54:34} - 12345
+{2023-07-16 12:54:34} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:54:34} - True
+{2023-07-16 12:54:34} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkxNTQsInNlc3Npb25faWQiOiJlMjRlYmIxNi1hOGE4LTQ1MGUtOGQxYi1jNzYwYzVjNjYzNjEifQ.doJ70_C7ImdYbsg7UHj40iWUNwV6rJdvFzT5fK43310', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:54:34} - [admin] -- logged in success
+{2023-07-16 12:55:18} - admin
+{2023-07-16 12:55:18} - 12345
+{2023-07-16 12:55:18} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:55:18} - 12345
+{2023-07-16 12:55:18} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:55:18} - True
+{2023-07-16 12:55:18} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkxOTgsInNlc3Npb25faWQiOiJjYzZhYjU0My04MjJiLTQ0YjktYWNlNS1hNGIwNzMyNmRhODUifQ.RD8jUYAO3EnJ2ap5mmwk-oL6jIKN3yAZLj5Bj9RnbTg', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:55:18} - [admin] -- logged in success
+{2023-07-16 12:56:22} - admin
+{2023-07-16 12:56:22} - 12345
+{2023-07-16 12:56:22} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 12:56:22} - 12345
+{2023-07-16 12:56:22} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 12:56:22} - True
+{2023-07-16 12:56:22} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTkyNjIsInNlc3Npb25faWQiOiIwZjIxYzdjNS0yZTQwLTRjMzktODFhMi01MzE2YjRiY2M4MWEifQ.no8uOU_zDIgusfCIL7_JciVnLY9WgC7GCaGNkhV41tY', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 12:56:22} - [admin] -- logged in success
+{2023-07-16 13:01:25} - admin
+{2023-07-16 13:01:25} - 12345
+{2023-07-16 13:01:26} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 13:01:26} - 12345
+{2023-07-16 13:01:26} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 13:01:26} - True
+{2023-07-16 13:01:26} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTk1NjYsInNlc3Npb25faWQiOiJiNmU2MWIzZi1mMTZiLTQzNDgtYmYwZC04NWY2ZTYyNmMwNzUifQ.a7kitq9kCImiJo4beQzPz8XRyxpheJO7Kmmx2hh8548', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 13:01:26} - [admin] -- logged in success
+{2023-07-16 13:02:37} - admin
+{2023-07-16 13:02:37} - 12345
+{2023-07-16 13:02:38} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 13:02:38} - 12345
+{2023-07-16 13:02:38} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 13:02:38} - True
+{2023-07-16 13:02:38} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTk2MzgsInNlc3Npb25faWQiOiJhMzU5N2I0Ny1mMjE2LTQ2YTMtOWYxOS01MTk0YzNmZjU2OTkifQ.gVRdc53RMcmbzqPc0VUi2M3Q6mmU1UxyccSmeptmBk4', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 13:02:38} - [admin] -- logged in success
+{2023-07-16 13:07:19} - admin
+{2023-07-16 13:07:19} - 12345
+{2023-07-16 13:07:19} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 13:07:19} - 12345
+{2023-07-16 13:07:19} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 13:07:19} - True
+{2023-07-16 13:07:19} - admin
+{2023-07-16 13:07:19} - 12345
+{2023-07-16 13:07:20} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTk5MjAsInNlc3Npb25faWQiOiI5NzBjODBkMS03ODJjLTQ0ZDctODMwZi04MmEwNDk4MjVhZDgifQ.R93ySA2j_13zIvGd3SUBt_K5oll3KILJH6xe6VgAWn4', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 13:07:20} - [admin] -- logged in success
+{2023-07-16 13:07:20} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 13:07:20} - 12345
+{2023-07-16 13:07:20} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 13:07:20} - True
+{2023-07-16 13:07:20} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MTk5MjAsInNlc3Npb25faWQiOiIzNWIyNTdiOC05NjI1LTQyOTEtODU0Yi0yZGE2MmQ1MjY1MTYifQ.1DHg8G5UCkgygXqkRw5-Q3NMWdx2fx4hQI8rj-8KXmI', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 13:07:20} - [admin] -- logged in success
+{2023-07-16 13:33:11} - admin
+{2023-07-16 13:33:11} - 12345
+{2023-07-16 13:33:12} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 13:33:12} - 12345
+{2023-07-16 13:33:12} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 13:33:12} - True
+{2023-07-16 13:33:12} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjE0NzIsInNlc3Npb25faWQiOiIxYzc5ZWYyYy0zMjdkLTQ0NjAtYjEzMi1jYmNmODM0YjZiZjcifQ.9_NqT4ge4YhaJXAyxj9tqoURWXd0oamV6gWlSy5hgn4', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 13:33:12} - [admin] -- logged in success
+{2023-07-16 14:07:40} - admin
+{2023-07-16 14:07:40} - 12345
+{2023-07-16 14:07:40} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:07:40} - 12345
+{2023-07-16 14:07:40} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:07:40} - True
+{2023-07-16 14:07:40} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjM1NDAsInNlc3Npb25faWQiOiI4OGYwNTk3Ny1mOGY4LTQ0MDktYjBhZi1kNmVjYTU1OTYwYTAifQ.xa497A_HgOeSEur5531NGwIBKdB0ooE8vsURP7wphEs', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:07:40} - [admin] -- logged in success
+{2023-07-16 14:23:44} - admin
+{2023-07-16 14:23:44} - 12345
+{2023-07-16 14:23:44} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:23:44} - 12345
+{2023-07-16 14:23:44} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:23:44} - True
+{2023-07-16 14:23:44} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjQ1MDQsInNlc3Npb25faWQiOiI5ZWQ1Y2E0Yy04ZGJlLTRlZDItOTVkMS0yMTg0NmYwMWE0MmQifQ.usvmRKrJc3KRCDE47pE-mY2M5o_9wlrtgd5ldGVgjaE', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:23:44} - [admin] -- logged in success
+{2023-07-16 14:26:14} - admin
+{2023-07-16 14:26:14} - 12345
+{2023-07-16 14:26:15} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:26:15} - 12345
+{2023-07-16 14:26:15} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:26:15} - True
+{2023-07-16 14:26:15} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjQ2NTUsInNlc3Npb25faWQiOiJkZjE2ZDY4Yy0wM2Q2LTQzZTYtODgzNS1lNTllYmViODQ5NDMifQ.K58i8k-Yl9ItWLh2fr0jLm3qo7t0gzSXSn985YLIekw', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:26:15} - [admin] -- logged in success
+{2023-07-16 14:27:23} - admin
+{2023-07-16 14:27:23} - 12345
+{2023-07-16 14:27:23} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:27:23} - 12345
+{2023-07-16 14:27:23} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:27:23} - True
+{2023-07-16 14:27:23} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjQ3MjMsInNlc3Npb25faWQiOiJiNDgyYTQxYi0xYWQ3LTQ2ODItODliNi0wOWMzYWQwYzUyMjcifQ.TaNsMOGPcz6q0pt2xbvYs5BvqsLo7GWpeiyXEZm3C4Y', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:27:23} - [admin] -- logged in success
+{2023-07-16 14:29:46} - admin
+{2023-07-16 14:29:46} - 12345
+{2023-07-16 14:29:46} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:29:46} - 12345
+{2023-07-16 14:29:46} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:29:46} - True
+{2023-07-16 14:29:46} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjQ4NjYsInNlc3Npb25faWQiOiI0MjgzNDIzOC1hMDIwLTQ4NWItYjM0OC1lODJkZDA5ZjBkMjgifQ.BfPv9UWPuw6CJeF-n84RXFeOvNyH-APbRhjzCcHVlRs', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:29:46} - [admin] -- logged in success
+{2023-07-16 14:30:04} - admin
+{2023-07-16 14:30:04} - 12345
+{2023-07-16 14:30:04} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:30:04} - 12345
+{2023-07-16 14:30:04} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:30:04} - True
+{2023-07-16 14:30:05} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjQ4ODUsInNlc3Npb25faWQiOiI0NTYxNmYyNC1mMDZhLTQ1ZGUtOWEwNS02ODE5OTM3NjFkNzAifQ.HphzJbw2szG7_fUosxgQqbPz6qM9P5-isp3muXzkVak', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:30:05} - [admin] -- logged in success
+{2023-07-16 14:34:34} - admin
+{2023-07-16 14:34:34} - 12345
+{2023-07-16 14:34:34} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:34:34} - 12345
+{2023-07-16 14:34:34} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:34:34} - True
+{2023-07-16 14:34:35} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjUxNTUsInNlc3Npb25faWQiOiI5MzNmN2RkZC0yNzI3LTQwNTItOGFmOC1iNmU2NzVlNTljZmMifQ.Mmp0sPDjzpmce7c67i4b9eJUWsCx7Gos_uSofJ2Zkls', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:34:35} - [admin] -- logged in success
+{2023-07-16 14:34:57} - admin
+{2023-07-16 14:34:57} - 12345
+{2023-07-16 14:34:57} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:34:57} - 12345
+{2023-07-16 14:34:57} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:34:57} - True
+{2023-07-16 14:34:57} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjUxNzcsInNlc3Npb25faWQiOiI0MjQ3YjUxZC0zZTMxLTQ0ODMtYTk0OC0xOTk3N2ZhY2UxNWUifQ.WZN9eSvMuDihAMx_N02DHafyIyur1jdZa12d4qBJr00', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:34:57} - [admin] -- logged in success
+{2023-07-16 14:35:28} - admin
+{2023-07-16 14:35:28} - 12345
+{2023-07-16 14:35:28} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:35:28} - 12345
+{2023-07-16 14:35:28} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:35:28} - True
+{2023-07-16 14:35:28} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjUyMDgsInNlc3Npb25faWQiOiJlMGYwZGVhOS0xMDlmLTQ5OWEtYTkwYy0wNjkxOTJjNDFlMjkifQ.JJKEzDqW41m1keuCI3NpuGHLzZeVE3AZFRh3dMv7IiU', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:35:28} - [admin] -- logged in success
+{2023-07-16 14:36:30} - admin
+{2023-07-16 14:36:30} - 12345
+{2023-07-16 14:36:30} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:36:30} - 12345
+{2023-07-16 14:36:30} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:36:30} - True
+{2023-07-16 14:36:31} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjUyNzEsInNlc3Npb25faWQiOiJkYTI3MGEyNy1kZjNkLTQ4M2YtYjg3NC1lNTM5NjkwNmM2Y2IifQ.5L59hvZD87gDFEzbKa7er0oY5hI9qRRnpQEHFZZO-0Y', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:36:31} - [admin] -- logged in success
+{2023-07-16 14:40:25} - admin
+{2023-07-16 14:40:25} - 12345
+{2023-07-16 14:40:25} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:40:25} - 12345
+{2023-07-16 14:40:25} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:40:25} - True
+{2023-07-16 14:40:25} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjU1MDUsInNlc3Npb25faWQiOiIzYzcxNTNkMy0zODhjLTQ4ZTYtOWFjYS03NDk0MjI0Zjg4M2UifQ.rEdY0ak0gHI3zFx_5GNHJ44it7OXK-EU83Tp3RmS6YI', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:40:25} - [admin] -- logged in success
+{2023-07-16 14:41:17} - admin
+{2023-07-16 14:41:17} - 12345
+{2023-07-16 14:41:17} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:41:17} - 12345
+{2023-07-16 14:41:17} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:41:17} - True
+{2023-07-16 14:41:17} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjU1NTcsInNlc3Npb25faWQiOiI0YjM4MDRiNC1lY2M3LTRmN2QtYjg2MC1jYWUyNGRkZGZiZGMifQ.o8RFKBu4n1NsIrxArz5cukjRFkyvEp-fdzfrDmXXZ-g', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:41:17} - [admin] -- logged in success
+{2023-07-16 14:42:24} - admin
+{2023-07-16 14:42:24} - 12345
+{2023-07-16 14:42:24} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:42:24} - 12345
+{2023-07-16 14:42:24} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:42:24} - True
+{2023-07-16 14:42:24} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjU2MjQsInNlc3Npb25faWQiOiJhOTg1YWFmMi0wYjA4LTRiODEtOGQ3Yi02MmMyMWRkMGJjYmIifQ.zgY9PkILxFPgtNuAc_a2Yv_tmpjr9HSO4G2Fs0vLquI', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:42:24} - [admin] -- logged in success
+{2023-07-16 14:45:48} - admin
+{2023-07-16 14:45:48} - 12345
+{2023-07-16 14:45:48} - [1, 'Admin', 'Admin', 'admin', '$pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM', False]
+{2023-07-16 14:45:48} - 12345
+{2023-07-16 14:45:48} - $pbkdf2-sha256$29000$WKuVcs6ZM0ZICSGEMCZkLA$0n2WruPLklYsN..TGeLDA5fLrixSOd.fbdBdmAYjdPM
+{2023-07-16 14:45:48} - True
+{2023-07-16 14:45:48} - {'success': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBlcm1pc2lvbnMiOlsiQWRtaW5pc3RyYXRvciJdLCJleHAiOjE2ODk1MjU4MjgsInNlc3Npb25faWQiOiJkMDRhMzcxMi1mNDMzLTRhOGUtYjAzMi0xYTY3MWQ0Mzc2NWUifQ.e70ZKJZGuki7fcWC0zlNjMZrAsvpj4nCcW-FSzdN-TY', 'user': {'id': 1, 'username': 'admin'}, 'permissions': ['Administrator']}
+{2023-07-16 14:45:48} - [admin] -- logged in success
+{2023-07-16 15:33:04} - [admin] -- logged in success
+{2023-07-16 15:33:53} - [admin] -- logged in success
+{2023-07-16 15:55:27} - [admin] -- logged in success
+{2023-07-16 16:15:53} - [admin] -- logged in success
+{2023-07-16 16:17:40} - [admin] -- logged in success
+{2023-07-16 16:26:30} - [admin] -- logged in success
+{2023-07-16 16:44:05} - [admin] -- logged in success
+{2023-07-16 16:45:08} - [admin] -- logged in success
+{2023-07-16 16:46:03} - [admin] -- logged in success
+{2023-07-16 16:47:47} - [admin] -- logged in success
+{2023-07-16 16:49:07} - [admin] -- logged in success
+{2023-07-16 16:49:16} - [admin] -- logged in success
+{2023-07-16 16:50:23} - [admin] -- logged in success
+{2023-07-16 16:52:10} - [admin] -- logged in success
+{2023-07-16 16:54:34} - [admin] -- logged in success
+{2023-07-16 16:55:37} - [admin] -- logged in success
+{2023-07-16 17:13:28} - [admin] -- logged in success
+{2023-07-16 17:13:54} - [admin] -- logged in success
+{2023-07-16 17:15:04} - [admin] -- logged in success
+{2023-07-16 18:01:43} - [admin] -- logged in success
+{2023-07-16 18:02:10} - [admin] -- logged in success
+{2023-07-16 18:02:35} - [admin] -- logged in success
+{2023-07-16 18:03:11} - [admin] -- logged in success
+{2023-07-16 18:05:23} - [admin] -- logged in success
+{2023-07-16 18:45:48} - [admin] -- logged in success
+{2023-07-16 18:54:40} - [admin] -- logged in success
+{2023-07-16 18:55:17} - [admin] -- logged in success
+{2023-07-16 18:55:32} - [admin] -- logged in success
+{2023-07-16 18:56:14} - [admin] -- logged in success
+{2023-07-16 18:56:29} - [admin] -- logged in success
+{2023-07-16 18:57:37} - [admin] -- logged in success
+{2023-07-16 18:57:38} - [admin] -- logged in success
+{2023-07-16 19:00:29} - [admin] -- logged in success
+{2023-07-16 19:03:43} - [admin] -- logged in success
+{2023-07-16 19:06:35} - [admin] -- logged in success
+{2023-07-16 19:07:14} - [admin] -- logged in failed
+{2023-07-16 19:07:21} - [admin] -- logged in success
+{2023-07-16 19:10:28} - [admin] -- logged in success
+{2023-07-16 19:11:01} - [admin] -- logged in success
+{2023-07-16 19:11:49} - [admin] -- logged in success
+{2023-07-16 19:16:35} - [admin] -- logged in success
+{2023-07-16 19:17:30} - [admin] -- logged in success
+{2023-07-16 19:36:12} - [admin] -- logged in success
+{2023-07-16 20:05:12} - [admin] -- logged in success
+{2023-07-16 20:09:28} - [admin] -- logged in success
+{2023-07-16 20:10:33} - [admin] -- logged in success
+{2023-07-16 21:39:57} - [admin] -- logged in success
+{2023-07-16 22:06:58} - [admin] -- logged in success
+{2023-07-16 22:32:00} - [admin] -- logged in success
+{2023-07-16 22:46:49} - [admin] -- logged in success
+{2023-07-16 22:54:17} - [admin] -- logged in success
+{2023-07-16 23:02:11} - [admin] -- logged in success
+{2023-07-16 23:03:47} - [admin] -- logged in success
+{2023-07-16 23:30:57} - [admin] -- logged in success
+{2023-07-17 00:30:14} - [admin] -- logged in success
+{2023-07-17 00:30:38} - [admin] -- logged in success
+{2023-07-17 00:33:54} - [admin] -- logged in success
+{2023-07-17 00:42:55} - [admin] -- logged in failed
+{2023-07-17 00:43:01} - [admin] -- logged in success
+{2023-07-17 12:45:09} - [admin] -- logged in success
+{2023-07-17 12:47:46} - [admin] -- logged in success
+{2023-07-17 13:00:33} - [admin] -- logged in success
+{2023-07-17 13:55:20} - [admin] -- logged in success
+{2023-07-17 14:07:48} - [admin] -- logged in success
+{2023-07-17 14:45:06} - [admin] -- logged in success
+{2023-07-17 14:47:07} - [admin] -- logged in success
+{2023-07-17 14:47:20} - [testtest] -- logged in failed
+{2023-07-17 14:47:26} - [admin] -- logged in success
+{2023-07-17 15:11:40} - [admin] -- logged in success
