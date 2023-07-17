@@ -24,7 +24,7 @@ app = create_app()
 
 @rest_api.route('/api/courses/sign')
 class RejestracjaKurs(Resource):
-    #@token_required_with_role('Wsei')
+    @token_required_with_role('Student')
     @rest_api.expect(add_course_model, validate=True)
     def post(current_user):
        
@@ -49,8 +49,8 @@ class RejestracjaKurs(Resource):
 @rest_api.route('/api/courses/list')
 
 class ListaKursow(Resource):
-    #@token_required_with_role('Wsei')
-    def get(current_user):
+    @token_required_with_role('Student')
+    def get(self,current_user):
       
 
         response = get_courses()
