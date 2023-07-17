@@ -50,7 +50,7 @@ class RejestracjaKurs(Resource):
 
 class ListaKursow(Resource):
     @token_required_with_role('Student')
-    def get(self,current_user):
+    def get(current_user):
       
 
         response = get_courses()
