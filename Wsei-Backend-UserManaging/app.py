@@ -15,9 +15,9 @@ CORS(app)
 @api.route('/api/add-user')
 
 class UserResource(Resource):
-    #@token_required_with_role('Wykladowca')
+    @token_required_with_role('Administrator')
     @api.expect(user_model)
-    def post(self):
+    def post(self,current_user):
         req_data = request.get_json()
         firstname=req_data.get("first_name")
         lastname=req_data.get("last_name")
@@ -75,9 +75,8 @@ class UserResource(Resource):
 
 @api.route('/api/delete-user')
 class DeleteUser(Resource):
-    # @token_required_with_role('Wykladowca')
-
-    def post(self):
+    @token_required_with_role('Administrator')
+    def post(self,current_user):
         try:
             # Create a cursor object to interact with the database
             conn=conn_to_db()
@@ -113,8 +112,7 @@ class DeleteUser(Resource):
 @api.route('/api/list-users')
 class UserList(Resource):
     @token_required_with_role('Administrator')
-
-    def get(self):
+    def get(self,current_user):
         try:
             # Create a cursor object to interact with the database
             conn=conn_to_db()
