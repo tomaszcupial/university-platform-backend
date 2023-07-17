@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_restx import Resource
 from flask_cors import CORS
-from appModels.formsNamespaces import rest_api,kursy_namespace
+from appModels.formsNamespaces import rest_api
 from background.tokensAuthentication import token_required_with_role
 from background.logsconf import logger
 from background.config import BaseConfig
@@ -22,9 +22,9 @@ def create_app():
 
 app = create_app()
 
-@kursy_namespace.route('/api/courses/sign')
+@rest_api.route('/api/courses/sign')
 class RejestracjaKurs(Resource):
-    @token_required_with_role('Wsei')
+    #@token_required_with_role('Wsei')
     @rest_api.expect(add_course_model, validate=True)
     def post(current_user):
        
@@ -46,7 +46,7 @@ class RejestracjaKurs(Resource):
         
 
 
-@kursy_namespace.route('/api/courses/list')
+@rest_api.route('/api/courses/list')
 
 class ListaKursow(Resource):
     #@token_required_with_role('Wsei')

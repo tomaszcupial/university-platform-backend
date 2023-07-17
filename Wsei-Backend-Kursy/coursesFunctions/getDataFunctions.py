@@ -16,10 +16,6 @@ def get_courses():
         """)
 
         rows = cur.fetchall()[0]
-        
-        cur.close()
-        conn.close()
-
         return {"success": True,
                 "data": rows
                 }
