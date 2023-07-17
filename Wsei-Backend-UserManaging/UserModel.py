@@ -11,7 +11,14 @@ user_model = api.model('User', {
     'password': fields.String(required=True, description='Password'),
     'role': fields.String(required=True, description='User role (student/lecturer)')
 })
+update_user_model = api.model('UpdateUser', {
+    "id": fields.Integer(required=True),
+    'first_name': fields.String(required=True, description='First name'),
+    'last_name': fields.String(required=True, description='Last name'),
+    "newPassword": fields.String(required=False),
+    'role': fields.String(required=True, description='User role (student/lecturer)')
+})
 # Define user model
-user_model = api.model('Userdelete', {
+user_model_delete = api.model('Userdelete', {
     'id_user': fields.Integer(required=True, description='Id user'),
 })

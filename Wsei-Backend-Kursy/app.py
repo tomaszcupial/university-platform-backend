@@ -58,11 +58,11 @@ class ListaKursow(Resource):
         if response['success'] == True:
 
             logger.info(
-                '[%s] -- sign to course success', current_user.username)
+                '[%s] -- generated courses list')
             return response, 200
         else:
             logger.info(
-                '[%s] -- sign to course failed', current_user.username)
+                '[%s] -- generated courses list error')
             return response, 500
 
 
