@@ -45,11 +45,11 @@ class RejestracjaKurs(Resource):
             return response, 500
         
 
-
+# working on frontend
 @rest_api.route('/api/courses/list')
 
 class ListaKursow(Resource):
-    @token_required_with_role('Student')
+    # @token_required_with_role('wykladowca')
     def get(current_user):
       
 

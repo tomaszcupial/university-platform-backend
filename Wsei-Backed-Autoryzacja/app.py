@@ -54,9 +54,12 @@ def create_app():
                 admin_id = cursor.fetchone()[0]
 
                 # Przypisz użytkownika 'admin' do ról
-                # cursor.execute("INSERT INTO user_roles (user_id, role_id) VALUES (%s, %s);", (admin_id, student_id))
-                # cursor.execute("INSERT INTO user_roles (user_id, role_id) VALUES (%s, %s);", (admin_id, wykladowca_id))
+                cursor.execute("INSERT INTO user_roles (user_id, role_id) VALUES (%s, %s);", (admin_id, student_id))
+                cursor.execute("INSERT INTO user_roles (user_id, role_id) VALUES (%s, %s);", (admin_id, wykladowca_id))
                 cursor.execute("INSERT INTO user_roles (user_id, role_id) VALUES (%s, %s);", (admin_id, administrator_id))
+                
+                
+                
 
                 conn.commit()
 
@@ -71,6 +74,7 @@ def create_app():
 
 app = create_app()
 
+# working on frontend
 @login_namespace.route('/login')
 class Login(Resource):
     """
@@ -108,8 +112,7 @@ class Login(Resource):
                 '[%s] -- logged in failed', _username)
             return response, 500
         
-
-
+# partialy working on frontend
 @login_namespace.route('/logout')
 class LogoutUser(Resource):
     """

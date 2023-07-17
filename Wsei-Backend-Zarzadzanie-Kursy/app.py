@@ -14,6 +14,7 @@ app=Flask(__name__)
 api.init_app(app)
 CORS(app)
 
+# working on frontend
 @api.route('/api/delete-course')
 class DeleteCourse(Resource):
     @token_required_with_role('Wykladowca')
@@ -32,10 +33,10 @@ class DeleteCourse(Resource):
             return response, 500
 
        
-        
+# working on frontend  
 @api.route('/api/add-course')
 class CourseAdd(Resource):
-    #@token_required_with_role('Wykladowca')
+    @token_required_with_role('Wykladowca')
     @api.expect(course_add_model)
     def post(current_user):
         req_data = request.get_json()

@@ -13,6 +13,7 @@ app = Flask(__name__)
 api.init_app(app)
 CORS(app)
 
+# working on frontend
 @api.route('/api/add-user')
 class UserResource(Resource):
     @token_required_with_role('Administrator')
@@ -139,7 +140,7 @@ class EditUserResource(Resource):
             cursor.close()
             conn.close()
 
-
+# working on frontend
 @api.route('/api/delete-user')
 class DeleteUser(Resource):
     @token_required_with_role('Administrator')
