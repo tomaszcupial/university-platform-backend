@@ -2,7 +2,7 @@ import psycopg2
 from flask import Flask, request
 from flask_cors import CORS
 from flask_restx import Resource
-from UserModel import user_model, api
+from UserModel import user_model, api,update_user_model,user_model_delete
 from dbconn import conn_to_db
 from passlib.hash import pbkdf2_sha256
 import psycopg2.extras
@@ -12,12 +12,12 @@ from authenticaction import token_required_with_role
 app = Flask(__name__)
 api.init_app(app)
 CORS(app)
-@api.route('/api/add-user')
 
+@api.route('/api/add-user')
 class UserResource(Resource):
     @token_required_with_role('Administrator')
     @api.expect(user_model)
-    def post(self,current_user):
+    def post(current_user):
         req_data = request.get_json()
         firstname=req_data.get("first_name")
         lastname=req_data.get("last_name")
@@ -73,10 +73,78 @@ class UserResource(Resource):
             cursor.close()
             conn.close()
 
+
+@api.route('/api/edit-user')
+class EditUserResource(Resource):
+    @token_required_with_role('Administrator')
+    @api.expect(update_user_model)
+    def post(current_user):
+        req_data = request.get_json()
+        user_id = req_data.get("user_id")
+        firstname = req_data.get("first_name")
+        lastname = req_data.get("last_name")
+        username = req_data.get("username")
+        password=req_data.get("password")
+        password_hash=pbkdf2_sha256.hash(password)
+        userrole = req_data.get("role")
+
+        try:
+            conn = conn_to_db()
+            cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+
+            # Check if the username already exists
+            cursor.execute(
+                "SELECT * from users where username = %s and id != %s", (username, user_id)
+            )
+            usercheck = cursor.fetchone()
+            if usercheck:
+                return {"success": False, "msg": "This username already exists."}
+
+            if password == '':
+                cursor.execute(
+                "UPDATE users SET first_name = %s, last_name = %s, username = %s WHERE id = %s",
+                (firstname, lastname, username,password_hash, user_id)
+            )
+            else:
+                cursor.execute(
+                    "UPDATE users SET first_name = %s, last_name = %s, username = %s , password = %s WHERE id = %s",
+                    (firstname, lastname, username,password_hash, user_id)
+                )
+
+            # Fetch role ID
+            cursor.execute(
+                "SELECT id from roles WHERE role = %s", (userrole,)
+            )
+            role_id = cursor.fetchone()
+            if not role_id:
+                return {"success": False, "msg": "This role doesn't exist."}
+
+            role_id = role_id[0]
+
+            # Update user role
+            cursor.execute(
+                "UPDATE user_roles SET role_id = %s WHERE user_id = %s",
+                (role_id, user_id)
+            )
+
+            conn.commit()
+
+            return {'success': True, 'message': 'User updated successfully'}, 200
+
+        except (Exception, psycopg2.Error) as error:
+            conn.rollback()
+            return {"success": False, "msg": "Unexpected error"}
+
+        finally:
+            cursor.close()
+            conn.close()
+
+
 @api.route('/api/delete-user')
 class DeleteUser(Resource):
     @token_required_with_role('Administrator')
-    def post(self,current_user):
+    @api.expect(user_model_delete)
+    def post(current_user):
         try:
             # Create a cursor object to interact with the database
             conn=conn_to_db()
@@ -112,7 +180,7 @@ class DeleteUser(Resource):
 @api.route('/api/list-users')
 class UserList(Resource):
     @token_required_with_role('Administrator')
-    def get(self,current_user):
+    def get(current_user):
         try:
             # Create a cursor object to interact with the database
             conn=conn_to_db()
